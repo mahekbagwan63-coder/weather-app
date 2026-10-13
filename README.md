@@ -2,7 +2,7 @@
 
 A sleek, responsive, and interactive weather web app built with a **Spring Boot** backend and a **modern HTML/CSS/JavaScript** frontend. Designed with a beautiful **glassmorphism** UI and real-time weather updates using OpenWeatherMap API.
 
-🔗 **Live Demo:** placholder
+🔗 **Live Demo:** [weather-app-production-870d.up.railway.app](https://weather-app-production-870d.up.railway.app/)
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-orange)
@@ -64,7 +64,7 @@ A sleek, responsive, and interactive weather web app built with a **Spring Boot*
 ## 🚀 Live Demo
 
 🟢 **Try the app now:**  
-👉 [placeholder](link)
+👉 [weather-app-production-870d.up.railway.app](https://weather-app-production-870d.up.railway.app/)
 
 ---
 
