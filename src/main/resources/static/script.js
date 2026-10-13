@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:9090/api';
+const API_BASE_URL = 'https://weather-app-production-870d.up.railway.app/api';
 
 // DOM Elements
 const appContainer = document.getElementById('appContainer');
